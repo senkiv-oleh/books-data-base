@@ -21,5 +21,39 @@
       "category": "novel",
       "isbn": 3694561234
     }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "horror"
+    },
+    {
+      "id": 2,
+      "name": "poetry"
+    },
+    {
+      "id": 3,
+      "name": "novel"
+    },
+    {
+      "id": 4,
+      "name": "fantasy"
+    },
+    {
+      "id": 5,
+      "name": "historical"
+    },
+    {
+      "id": 6,
+      "name": "scientific"
+    },
+    {
+      "id": 7,
+      "name": "detective"
+    },
+    {
+      "id": 8,
+      "name": "adventures"
+    }
   ]
 }
