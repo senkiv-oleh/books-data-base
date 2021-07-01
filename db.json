@@ -22,7 +22,7 @@
       "isbn": 3694561234
     }
   ],
-  "category": [
+  "categories": [
     {
       "id": 1,
       "name": "horror"
