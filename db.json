@@ -1,6 +1,6 @@
 {
   "books": [
-    {
+   {
       "id": 0,
       "author": "Stiven King",
       "title": "It",
@@ -20,6 +20,13 @@
       "title": "Do not look back and be silent",
       "category": "novel",
       "isbn": 3694561234
+    },
+    {
+      "title": "Murder on the orient express",
+      "author": "Agata Christie",
+      "category": "novel",
+      "isbn": "2563697894125",
+      "id": 3
     }
   ],
   "categories": [
