@@ -5,21 +5,21 @@
       "author": "Stiven King",
       "title": "It",
       "category": "horror",
-      "isbn": 5283694561234
+      "isbn": "5283694561234"
     },
     {
       "id": 1,
       "author": "William Shakespeare",
       "title": "Sonnets",
       "category": "poetry",
-      "isbn": 9783694561234
+      "isbn": "9783694561234"
     },
     {
       "id": 2,
       "author": "Max Kidruk",
       "title": "Do not look back and be silent",
       "category": "novel",
-      "isbn": 3694561234
+      "isbn": "3694561234"
     }
   ]
 }
